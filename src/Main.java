@@ -76,7 +76,6 @@ public class Main {
                 }
             }
                 System.out.println(Arrays.toString(a));
-            }
-
-            }
+    }
+}
 
